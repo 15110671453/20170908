@@ -1,0 +1,11 @@
+体验 https ssl建立连接(安全套接字层(SSL v2/v3)和传输层安全(TLS v1)协议 以前我们只关注tcp协议)的过程
+
+操作系统 都内置这些基本的通讯组件了 我们按照规定使用即可
+
+
+1. OPENSSL简介
+2. The SSL library(SSL、TLS开发代码库)
+3. the Crypto library(密码学相关开发代码库)
+
+
+可以使用openssl 将上面的协议 实现一边的 感谢openssl  SDK
