@@ -1,0 +1,5 @@
+服务器 https 协议 通讯  ssl证书 更换 应该注意什么
+
+第一 ssl证书  与 openssl
+
+第二 ios https传输 自定义ssl证书 
